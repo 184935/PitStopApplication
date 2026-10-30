@@ -4,7 +4,7 @@ The model is trained and tested in ML.NET, while the data is visialized and adju
 
 The website can be reached here: https://pitstopprediction-euaaezfkbng2eyd4.swedencentral-01.azurewebsites.net/
 
-To do the same ML training you first need to fetch the train.csv data from Kaggle: https://www.kaggle.com/competitions/playground-series-s6e5/overview 
+To do the same ML training you first need to fetch the train.csv data from Kaggle: https://www.kaggle.com/competitions/playground-series-s6e5/overview and place the file in a Data folder inside the pitstopML.training folder. 
 According to their terms and condition redistribution of the dataset isn't allowed. 
 
 You then use the filprep.py to add the RaceYear column, Analysis is ran to make the figures populating the Figures folder. 
